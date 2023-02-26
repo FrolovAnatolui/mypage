@@ -1,1 +1,2 @@
 # FrolovAnatolui.github.io
+[[MyPersonalBlog]]
