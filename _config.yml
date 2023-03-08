@@ -34,8 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-url: https://frolovanatolui.github.io
-baseurl: mypage/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
