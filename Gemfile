@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
-url https://frolovanatolui.github.io/
-baseurl mypage/
+url: https://frolovanatolui.github.io/
+baseurl: mypage/
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
